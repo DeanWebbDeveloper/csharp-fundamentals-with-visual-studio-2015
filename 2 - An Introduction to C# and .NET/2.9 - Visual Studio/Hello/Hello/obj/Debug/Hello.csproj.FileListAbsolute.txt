@@ -1,0 +1,7 @@
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\bin\Debug\Hello.exe.config
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\bin\Debug\Hello.exe
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\bin\Debug\Hello.pdb
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\obj\Debug\Hello.exe
+D:\Web Development\Courses\Pluralsight\c#-fundamentals-with-visual-studio-2015\2 - An Introduction to C# and .NET\2.9 - Visual Studio\Hello\Hello\obj\Debug\Hello.pdb
