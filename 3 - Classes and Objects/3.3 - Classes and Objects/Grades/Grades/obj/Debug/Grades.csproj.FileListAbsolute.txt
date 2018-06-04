@@ -1,0 +1,13 @@
+c:\users\webbc\documents\visual studio 2017\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
