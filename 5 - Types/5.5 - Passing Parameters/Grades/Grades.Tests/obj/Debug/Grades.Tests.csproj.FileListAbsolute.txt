@@ -1,0 +1,48 @@
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades.Tests\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
