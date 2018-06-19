@@ -1,0 +1,157 @@
+c:\users\webbc\documents\visual studio 2017\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.2 - The Grade Book\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.3 - Classes and Objects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.4 - Constructors\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.4 - Constructors\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.4 - Constructors\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.4 - Constructors\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.4 - Constructors\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.4 - Constructors\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.5 - Classes and Variables\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.5 - Classes and Variables\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.5 - Classes and Variables\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.5 - Classes and Variables\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.5 - Classes and Variables\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.5 - Classes and Variables\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.6 - Reference Types\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.6 - Reference Types\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.6 - Reference Types\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.6 - Reference Types\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.6 - Reference Types\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.6 - Reference Types\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.7 - Access Modifiers\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.7 - Access Modifiers\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.7 - Access Modifiers\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.7 - Access Modifiers\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.7 - Access Modifiers\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.7 - Access Modifiers\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.9 - Statistics\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.9 - Statistics\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.9 - Statistics\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.9 - Statistics\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.9 - Statistics\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.9 - Statistics\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.10 - Computation\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.10 - Computation\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.10 - Computation\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.10 - Computation\Grades\Grades\bin\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.10 - Computation\Grades\Grades\bin\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\3 - Classes and Objects\3.10 - Computation\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.4 - Referencing Assemblies\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.4 - Referencing Assemblies\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.4 - Referencing Assemblies\Grades\Grades\obj\Debug\Grades.pdb
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.5 - Unit Testing\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.5 - Unit Testing\Grades\Grades\obj\Debug\Grades.exe
+D:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.5 - Unit Testing\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.6 - Tests and Access Modifiers\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\4 - Assemblies\4.7 - Tests and Floats\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.2 - Reference Types\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.3 - Value Types\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.4 - struct and enum\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.5 - Passing Parameters\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.6 - ref and out\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.6 - ref and out\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.6 - ref and out\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.6 - ref and out\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.6 - ref and out\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.6 - ref and out\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.7 - Immutability\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.7 - Immutability\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.7 - Immutability\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.8 - Arrays\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.8 - Arrays\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\5 - Types\5.8 - Arrays\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.2 - Methods\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.2 - Methods\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.2 - Methods\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.2 - Methods\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.2 - Methods\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.2 - Methods\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.3 - Fields and Properties\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.3 - Fields and Properties\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.3 - Fields and Properties\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.3 - Fields and Properties\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.3 - Fields and Properties\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.3 - Fields and Properties\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.5 - Delegates\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.5 - Delegates\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.5 - Delegates\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.5 - Delegates\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.5 - Delegates\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.5 - Delegates\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.6 - Events Revisited\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.6 - Events Revisited\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.6 - Events Revisited\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.6 - Events Revisited\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.6 - Events Revisited\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\6 - Methods, Fields, Events, and Properties\6.6 - Events Revisited\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.2 - Branching\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.2 - Branching\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.2 - Branching\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.2 - Branching\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.2 - Branching\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.2 - Branching\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.3 - Switching\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.3 - Switching\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.3 - Switching\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.3 - Switching\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.3 - Switching\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.3 - Switching\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.4 - Iterating\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.4 - Iterating\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.4 - Iterating\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.4 - Iterating\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.4 - Iterating\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.4 - Iterating\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.6 - Throwing\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.6 - Throwing\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.6 - Throwing\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.6 - Throwing\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.6 - Throwing\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.6 - Throwing\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.7 - Handling\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.7 - Handling\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.7 - Handling\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.7 - Handling\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.7 - Handling\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.7 - Handling\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.8 - Chaining\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.8 - Chaining\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.8 - Chaining\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.8 - Chaining\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.8 - Chaining\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.8 - Chaining\Grades\Grades\bin\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.9 - Finally\Grades\Grades\bin\Debug\Grades.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.9 - Finally\Grades\Grades\obj\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.9 - Finally\Grades\Grades\obj\Debug\Grades.pdb
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.9 - Finally\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.9 - Finally\Grades\Grades\bin\Debug\Grades.exe
+W:\Web Development\Courses\Pluralsight\csharp-fundamentals-with-visual-studio-2015\7 - Control Flow\7.9 - Finally\Grades\Grades\bin\Debug\Grades.pdb
